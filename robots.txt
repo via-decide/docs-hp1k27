@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://insights-ja7m04.lapinandwolf.co.nz/sitemap.xml
